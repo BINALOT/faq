@@ -129,8 +129,9 @@ section#hero {
     color: #fff;
 }
 
-#hero h1 {
+h1 {
     font-size: 3rem;
+    color: #fff;
     margin-bottom: 1rem;
 }
 
@@ -150,7 +151,7 @@ section#hero {
   }
   
   .accordion {
-    background-color: white;
+    background-color: rgb(137, 255, 114);
     color: rgba(0, 0, 0, 0.8);
     cursor: pointer;
     font-size: 1.2rem;
@@ -175,7 +176,7 @@ section#hero {
   }
   .pannel {
     padding: 0 2rem 2.5rem 2rem;
-    background-color: white;
+    background-color: gray;
     overflow: hidden;
     background-color: #f1f7f5;
     display: none;
